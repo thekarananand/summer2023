@@ -34,9 +34,11 @@ here
 - `<table>...</table>` tag consists of 2 section :
     1. `<thead>` for Table Headings
     2. `<tbody>` for Body Headings
-- Tables in html is made up of `<tr>..</tr>` (or Table Rows) which itself is made of `<td>...</td>` (or Table Data) elements.
+- Each of these Section is made up of is made up of `<tr>..</tr>` (or Table Row).
+- The `<tr>` in `<thead>` consists of `<th>` (or a Table Heading)
+- The `<tr>` in `<body>` consists of `<td>` (or a Table Data)
 
-### Link a HTML Page to .CSS File 
+# Link a HTML Page to .CSS File 
 
 ``` HTML
     <head>
@@ -90,4 +92,6 @@ here
 
 # Linux Basics 
 
-[Kunal Khushwaha's Basic Linux Commands](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4&t=3015s)
+Just Little Shell Command Revision form
+
+## [Kunal Khushwaha's Basic Linux Commands Video.](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4&t=3015s)
