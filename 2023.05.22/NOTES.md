@@ -83,7 +83,7 @@ here,
 #container {
     display: flex;
     flex-wrap: wrap;
-    }
+}
 ```
 - `display: flex;` tag tells web browser that this is a CSS flexbox
 - `flex-wrap: wrap;` tag tells web browser put boxes to the next line if don't find space.
@@ -114,7 +114,7 @@ here,
     grid-column-gap: 20px;
     grid-row-gap: 20px;
     grid-template-columns: 100px auto;
-    }
+}
 ```
 
 - `display: grid;` tag tells web browser that this is a CSS grid
