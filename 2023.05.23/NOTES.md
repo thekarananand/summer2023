@@ -1,7 +1,7 @@
 # ☀️ May 23, 2023
 Tech : GitHub Pages, HTML, CSS, Google Fonts
 
-> NOTE : Instead of Learning Something New, I tries to Practice. But even practicing requires learn small but significant things.
+> NOTE : Today, Instead of Learning Something New, I tried to Practice. But even practicing requires learn small but significant things.
 
 # GOOGLE FONTS
 We can import fonts from Google Fonts. Here's How to do it
