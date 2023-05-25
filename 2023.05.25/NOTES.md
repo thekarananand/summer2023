@@ -112,9 +112,9 @@ systemctl deamon-reload
 
 # HTML + CSS
 
-I Practices HTML and CSS to make a Card Element. 
+I Practiced HTML and CSS by making a Card Element. 
 
-<img src="Card.png" alt="card element" width="50%">
+![Card.png](Card.png)
 
 - ## [HTML](card.html)
 
