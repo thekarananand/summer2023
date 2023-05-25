@@ -74,8 +74,6 @@ here,
             <div>BOX 8</div>
             <div>BOX 9</div>
             <div>BOX 10</div>
-            <div>BOX 11</div>
-            <div>BOX 12</div>
         </div>
     </body>
 ```
@@ -102,8 +100,6 @@ here,
             <div>BOX 8</div>
             <div>BOX 9</div>
             <div>BOX 10</div>
-            <div>BOX 11</div>
-            <div>BOX 12</div>
         </div>
     </body>
 ```
