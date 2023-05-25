@@ -114,7 +114,7 @@ systemctl deamon-reload
 
 I Practices HTML and CSS to make a Card Element. 
 
-<a href="Card.png" width="50%"></a>
+<img src="Card.png" alt="card element" width="50%">
 
 - ## [HTML](card.html)
 
