@@ -99,9 +99,7 @@ here,
             <div>BOX 5</div>
             <div>BOX 6</div>
             <div>BOX 7</div>
-            <div>BOX 8</div>
-            <div>BOX 9</div>
-            <div>BOX 10</div>
+       here's the files      <div>BOX 10</div>
             <div>BOX 11</div>
             <div>BOX 12</div>
         </div>

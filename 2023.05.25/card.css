@@ -1,0 +1,67 @@
+html {
+    background: linear-gradient(0deg, #BACDD8, #BACDD8);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+
+#container {
+    border : 1px solid #BACDD8;
+    height: 472px;
+    width: 294px;
+    border-radius: 12px;
+    background: #ffffff;
+    margin: 100px auto
+}
+
+img {
+    width: 278px;
+    height: 214px;
+    object-fit: cover;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+#type {
+    display: flex;
+    padding: 0 8px;
+    gap: 8px;
+}
+
+.pill  {
+    border: 1px solid #E5EAED;
+    
+    border-radius: 33px;
+    padding: 4px 8px;
+    color: #788697;
+}
+
+h1 {
+    padding: 0 12px;
+    color:#0E2632;
+    line-height: 28px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+p {
+    padding: 0 12px;
+    color: #7F8C9B;  
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+
+button {
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding: 12px 24px;
+    border-radius: 49px;
+    background-color: #E0EFFF;
+    color: #0077FF;
+    font-size: 10px; 
+    font-family: 'Raleway', sans-serif;
+    
+}
