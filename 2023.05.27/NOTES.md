@@ -1,7 +1,7 @@
 # ☀️ May 27, 2023 
 Tech : WebD, Python
 
-# I Made a New Tab + HTML + CSS + Github Pages
+# I Made a New Tab with HTML + CSS + Github Pages
 
 ![Screenshot.png](Screenshot.png)
 
