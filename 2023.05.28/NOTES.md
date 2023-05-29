@@ -108,7 +108,7 @@ python2 <file_name.py>
 python3 <file_name.py>
 ```
 
-## Python's Package manager
+## Python's Package manager - `pip`
 
 ### Checking Version
 ``` bash
