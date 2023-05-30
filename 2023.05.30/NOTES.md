@@ -62,4 +62,4 @@ echo <file to be ignored> >> .gitignore
 ### Overview of All the commit on this branch
 ``` bash
 git log --oneline
-```Improved
+```
