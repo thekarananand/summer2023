@@ -86,7 +86,7 @@ urlpatterns = [
 ]
 ```
 
-**Step 2**: in `<P_Name>/urls.py` file, Add a path entry for `<APP_NAME>/urls.py`
+**Step 2**: in `<P_Name>/urls.py` file, Add a path entry for `<APP_NAME>/urls.py`. Import `include()`
 
 ``` Python
 from django.contrib import admin
