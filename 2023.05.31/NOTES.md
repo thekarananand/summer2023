@@ -1,4 +1,4 @@
-# ☀️ May 30, 2023
+# ☀️ May 31, 2023
 Tech : Django, Git
 
 # Django
