@@ -170,10 +170,10 @@ CD is a Process of taking the Package from CI process and Placing it onto the Pr
     ``` bash
     sudo ufw allow 8080
     sudo ufw status
-    ```- 
-Container
+    ```
 
     if is gives some error : 
+    
     ``` bash
     sudo systemctl status jinkins
     ```
