@@ -21,9 +21,6 @@ alert("Hello, World!")
 
 ### Find an Element
 
-Improved
-```
-
 Locate the first element with the given class:
 ``` JavaScript
 document.querySelector('.class')
@@ -47,11 +44,11 @@ git --version
 
 ### Setting User Credentials
 ``` bash
-git config user.email sarah@example.com
+git config user.email <E-MAIL>
 ```
 
 ``` bash
-git config user.name sarah
+git config user.name <NAME>
 ```
 
 ### Git Ignore
