@@ -78,3 +78,45 @@ or
 let x = 1000;
 alert(`Value of x is ${x}`)
 ```
+
+# Jenkins
+## Creating a "Hello World" jenkins pipeline
+
+**Step 1**: On the Dashboard, Go to the **New Item** section.
+
+**Step 2**: Select Pipeline, Give it a name, & Click on OK.
+
+**Step 3**: At the bottom, in the Pipeline section, from `try sample Pipeline` dropdown, select `Hello World`. 
+
+**Step 4**: Click Save.
+
+## Jenkins CLI
+
+### Getting Started
+
+**Step 1**: On the Jenkins Dashboard, go to Manage Jenkins > Tools and Actions > Jenkins CLI 
+
+**Step 2**: Download the jenkins-cli.jar file (from the Jenkins Server.)
+
+**Step 3**: Get an API TOKEN by going to DASHBOARD > USERNAME > CONFIGURE > API TOKEN, and Generating one
+
+**Step 4**: First Command
+``` bash
+java -jar jenkins-cli.jar -s <IP:PORT> -auth <USERNAME>:<API>
+```
+
+This will show all the available commands for Jenkins-CLI 
+
+### List Jobs
+``` bash
+java -jar jenkins-cli.jar -s <IP:PORT> -auth <USERNAME>:<API> -webSocket list-jobs
+```
+
+### Build/Execute a Job
+``` bash
+java -jar jenkins-cli.jar -s <IP:PORT> -auth <USERNAME>:<API> -webSocket build <JOB>
+```
+
+**After Building the Hello World Job**
+
+![FirstJob.png](FirstJob.png)
