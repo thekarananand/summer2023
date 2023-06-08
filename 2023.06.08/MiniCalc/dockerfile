@@ -1,0 +1,20 @@
+FROM ubuntu
+
+RUN apt update && apt upgrade -y && apt install python3 python3-pip -y
+RUN pip3 install django
+
+COPY . /
+
+RUN django-admin startproject MiniCalc
+RUN cd MiniCalc && python3 manage.py startapp HOME && cd ..
+RUN sed -i "s/INSTALLED_APPS = \[/&\n    'HOME',/" /MiniCalc/MiniCalc/settings.py
+
+RUN mv /HOMEfiles/* MiniCalc/HOME
+RUN mv /MiniCalcfiles/* MiniCalc/MiniCalc
+RUN rm -r /HOMEfiles
+RUN rm -r /MiniCalcfiles
+RUN mv /templates /MiniCalc/HOME
+
+RUN cd MiniCalc && python3 manage.py migrate
+
+ENTRYPOINT cd MiniCalc && python3 manage.py runserver

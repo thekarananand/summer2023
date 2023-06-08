@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Calculator</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Geologica:wght@400;500&display=swap"
+            rel="stylesheet">
+
+        <style>
+            * {
+                    font-family: 'Geologica', sans-serif;
+                    padding: 0px;
+                    margin: 0px;
+                }
+
+                button {
+                    font-weight: 500;
+                    font-size: 30px;
+                    border: none;
+                    border-radius: 30px;
+                    width: 60px;
+                    height: 60px;
+                    padding: 0px;
+                    background-color: #F5F0FF;
+                }
+
+                button:active {
+                    border-radius: 15px;
+                    background-color: #C2BDCA;
+                    transition: 20ms;
+                }
+
+                #AC {
+                    background-color: #F6D9FF;
+                    width: 200px;
+                }
+
+                #AC:active {
+                    background-color: #C2ABCA;
+                }
+
+                #EQUAL {
+                    background-color: #E4DFFF;
+                    width: 200px;
+                }
+
+                #EQUAL:active {
+                    background-color: #B4B0CB;
+                }
+
+                .SIGN {
+                    background-color: #ECDDFF ;
+                }
+
+                .SIGN:active {
+                    background-color: #B9AECB ;
+                }
+
+                .Row{
+                    width: fit-content;
+                    display: flex;
+                    gap: 10px;
+                }
+
+                #allRows{
+                    width: fit-content;
+                    display: grid;
+                    gap: 10px;
+                    margin: 20px;
+                }
+
+                #display{
+                    font-size: 35px;
+                    font-weight: 400;
+                    text-align: right;
+                    text-align: right;
+                    margin: 20px;
+                }
+
+                #display-holder{
+                    display: flex;
+                    align-items: end;
+                    justify-content: end;
+                    background-color: #E7DFFF;
+                    overflow: hidden;
+                    height: 200px;
+                    padding: 5px ;
+                    border-top-left-radius: 35px;
+                    border-top-right-radius: 35px;
+                    border-bottom-left-radius: 18px;
+                    border-bottom-right-radius: 18px;
+                }
+
+                body {
+                    height: 100vh;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    background: #EEEAEE;
+                }
+
+                #everything{
+
+                    width: 310px;
+                    border-radius: 35px;
+                    background: #FFFBFF;
+                    box-shadow: 0px 0px 30px #00000030 ;
+                    border: 1px solid black;
+                }
+
+        </style>
+
+    </head>
+    <body>
+
+        <div id="everything">
+
+            <div id="display-holder">
+                <p id="display">Hello, World!</p>
+            </div>
+
+            <div id="allRows">
+                <div class="Row">
+                    <button id="AC" onclick="AC()">AC</button>
+                    <button class="SIGN" onclick="div()">÷</button>
+                </div>
+
+                <div class="Row">
+                    <button onclick="num(7)">7</button>
+                    <button onclick="num(8)">8</button>
+                    <button onclick="num(9)">9</button>
+                    <button class="SIGN" onclick="mul()">×</button>
+                </div>
+
+                <div class="Row">
+                    <button onclick="num(4)">4</button>
+                    <button onclick="num(5)">5</button>
+                    <button onclick="num(6)">6</button>
+                    <button class="SIGN" onclick="sub()">−</button>
+                </div>
+
+                <div class="Row">
+                    <button onclick="num(1)">1</button>
+                    <button onclick="num(2)">2</button>
+                    <button onclick="num(3)">3</button>
+                    <button class="SIGN" onclick="add()">+</button>
+                </div>
+
+                <div class="Row">
+                    <button onclick="num(0)">0</button>
+                    <button id="EQUAL" onclick="equalKey()">=</button>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const DISPLAY = document.getElementById('display')
+
+            let num1 = 0
+            let num2 = 0
+            let Sel  = 0
+            let opr  = ""
+
+            function num(x) {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    num2 = num2 * 10 + x
+                }
+                else {
+                    num1 = num1 * 10 + x
+                }
+
+
+                DISPLAY.innerHTML += x
+            }
+
+            function add() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+            let num1 = 0
+            let num2 = 0
+            let Sel  = 0
+            let opr  = ""
+
+            function num(x) {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    num2 = num2 * 10 + x
+                }
+                else {
+                    num1 = num1 * 10 + x
+                }
+
+
+                DISPLAY.innerHTML += x
+            }
+
+            function add() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "+"
+
+                DISPLAY.innerHTML += "+"
+            }
+
+            function sub() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "−"
+
+                DISPLAY.innerHTML += "−"
+            }
+
+            function mul() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "×"
+
+                DISPLAY.innerHTML += "×"
+            }
+
+            function div() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "÷"
+
+                DISPLAY.innerHTML += "÷"
+            }
+
+            function AC() {
+                DISPLAY.innerHTML = ""
+                Sel = 0
+                num1 = 0
+                num2 = 0
+            }
+
+            function equal() {
+
+                if (opr === "+") {
+                    num1 += num2
+                }
+                else if (opr === "−") {
+                    num1 -= num2
+                }
+                else if (opr === "×") {
+                    num1 *= num2
+                }
+                else if (opr === "÷") {
+                    if (num2 === 0) {
+                        num1 = "Error!"
+                    }
+                    else{
+                        num1 /= num2
+                    }
+                }
+                else{
+                    return
+                }
+
+                DISPLAY.innerHTML = num1.toFixed(10)
+                num2 = 0
+            }
+
+            function equalKey(){
+                equal()
+                Sel = 0
+            }
+
+                DISPLAY.innerHTML += "+"
+            }
+
+            function sub() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "−"
+
+                DISPLAY.innerHTML += "−"
+            }
+
+            function mul() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "×"
+
+                DISPLAY.innerHTML += "×"
+            }
+
+            function div() {
+                if (num1 === "Error!") {
+                    return
+                }
+                if (DISPLAY.innerText === "Hello, World!"){
+                    DISPLAY.innerText = ""
+                }
+
+                if (Sel == 1){
+                    equal()
+                }
+                else {
+                    Sel = 1
+                }
+
+                opr = "÷"
+
+                DISPLAY.innerHTML += "÷"
+            }
+
+            function AC() {
+                DISPLAY.innerHTML = ""
+                Sel = 0
+                num1 = 0
+                num2 = 0
+            }
+
+            function equal() {
+
+                if (opr === "+") {
+                    num1 += num2
+                }
+                else if (opr === "−") {
+                    num1 -= num2
+                }
+                else if (opr === "×") {
+                    num1 *= num2
+                }
+                else if (opr === "÷") {
+                    if (num2 === 0) {
+                        num1 = "Error!"
+                    }
+                    else{
+                        num1 /= num2
+                    }
+                }
+                else{
+                    return
+                }
+
+                DISPLAY.innerHTML = num1.toFixed(10)
+                num2 = 0
+            }
+
+            function equalKey(){
+                equal()
+                Sel = 0
+            }
+        </script>
+
+    </body>
+</html>
