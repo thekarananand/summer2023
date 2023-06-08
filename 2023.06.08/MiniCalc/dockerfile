@@ -18,4 +18,4 @@ RUN mv /templates /MiniCalc/HOME
 RUN cd MiniCalc && python3 manage.py migrate
 
 EXPOSE 8000
-ENTRYPOINT cd MiniCalc && python3 manage.py runserver
+ENTRYPOINT cd MiniCalc && python3 manage.py runserver 0.0.0.0:8000 
