@@ -26,16 +26,6 @@ docker run -H <IP>:<Port> <Image>
 
 ## Resource management for Docker Container
 
-### CPU 
-``` bash
-docker run ## Docker Container on Remote Machine
-
-``` bash
-docker run -H <IP>:<Port> <Image>
-```
-
-## Resource management for Docker Container
-
 
 ``` bash
 docker run --cpus=0.5 <Image>
