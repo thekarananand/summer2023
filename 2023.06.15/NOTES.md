@@ -100,7 +100,7 @@ let laptop = {
 console.log(laptop.CPU)
 ```
 ``` JS
-console.log(laptop['CPU'])    > NOTE: `<NAME>` is the name of R eplicaSet
+console.log(laptop['CPU'])
 ```
 ## Arithmetic Operates 
 
@@ -153,7 +153,7 @@ switch (num2) {
         break;
 
     case 2:
-        // Code to Run    > NOTE: `<NAME>` is the name of R eplicaSet
+        // Code to Run
         break;
 
     default:
@@ -166,7 +166,7 @@ switch (num2) {
 
 ``` JS
 while (CONDITION) {
-    // Code to Run    > NOTE: `<NAME>` is the name of R eplicaSet
+    // Code to Run
 }
 ```
 
