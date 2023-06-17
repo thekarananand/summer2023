@@ -20,7 +20,7 @@ Tech : Kubernetes, JavaScript
 
 ## NodePort
 
-![](NotePort.png)
+![](notePort.png)
 
 ### Basic `service.yml` file
 
