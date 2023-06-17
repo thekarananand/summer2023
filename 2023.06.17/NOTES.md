@@ -1,5 +1,5 @@
 # ☀️ Jun 17, 2023
-Tech : JavaScript, Kubernetes
+Tech : Kubernetes, JavaScript
 
 # Kubernetes
 
