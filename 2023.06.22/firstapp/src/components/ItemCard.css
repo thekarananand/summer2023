@@ -1,0 +1,22 @@
+.ItemCard{
+    width: fit-content;
+    border-radius: 1rem;
+    box-shadow: 0 0 4px;
+}
+
+.ItemCard:hover{
+    box-shadow: 0 0 8px;
+}
+
+.ItemCard > h2 {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.ItemCard > img{
+    height: 10rem;
+    width: 19rem;
+    object-fit: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}

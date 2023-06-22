@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="253.43207mm"
+   height="126.94854mm"
+   viewBox="0 0 253.43207 126.94854"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="REACT.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.82074315"
+     inkscape:cx="518.43259"
+     inkscape:cy="99.909454"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(103.26047,152.24516)">
+    <rect
+       style="opacity:1;fill:#002780;fill-opacity:1;stroke:#ffffff;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1792"
+       width="252.96707"
+       height="126.48354"
+       x="-103.02797"
+       y="-152.01266"
+       rx="5.6276097"
+       ry="5.6276097" />
+    <rect
+       style="opacity:1;fill:#ff5555;fill-opacity:0.224825;stroke:#ffffff;stroke-width:0.288056;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-2"
+       width="106.03834"
+       height="24.584435"
+       x="-137.75142"
+       y="91.501312"
+       rx="5.6428123"
+       ry="5.6428123"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.19223px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157455;stroke-linecap:round;stroke-linejoin:round"
+       x="33.595177"
+       y="-118.47112"
+       id="text342-3-31"><tspan
+         sodipodi:role="line"
+         id="tspan340-6-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.157456"
+         x="33.595177"
+         y="-118.47112">src/components/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="-58.017311"
+       y="-74.404144"
+       id="text342"><tspan
+         sodipodi:role="line"
+         id="tspan340"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="-58.017311"
+         y="-74.404144">src/index.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="-60.973206"
+       y="-38.258595"
+       id="text342-6"><tspan
+         sodipodi:role="line"
+         id="tspan340-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="-60.973206"
+         y="-38.258595">src/index.css</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="-68.432457"
+       y="-116.04192"
+       id="text342-3"><tspan
+         sodipodi:role="line"
+         id="tspan340-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="-68.432457"
+         y="-116.04192">public/index.html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:13.455px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="-94.680275"
+       y="-135.04979"
+       id="text342-3-31-6"><tspan
+         sodipodi:role="line"
+         id="tspan340-6-9-1"
+         style="stroke:#ffffff;stroke-width:0.365;stroke-dasharray:none"
+         x="-94.680275"
+         y="-135.04979">React.JS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="37.474426"
+       y="-49.712925"
+       id="text342-7"><tspan
+         sodipodi:role="line"
+         id="tspan340-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="37.474426"
+         y="-49.712925">src/App.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="34.518532"
+       y="-40.832409"
+       id="text342-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan340-6-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="34.518532"
+         y="-40.832409">src/App.css</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="M -67.791894,-76.431585 H -91.281789"
+       id="path730"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="M 12.228404,-52.006406 -2.393138,-76.299085"
+       id="path730-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="M 22.618957,-52.006406 H 12.228404"
+       id="path730-5-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -2.393138,-76.299085 -9.455709,0.0102"
+       id="path730-5-2-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path732"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -67.791894,-77.878008 v 1.446423 1.446424 l 4.62349,-1.446424 z" />
+    <path
+       id="path732-9"
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 22.618957,-53.452829 v 1.446423 1.446424 l 4.62349,-1.446424 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -37.238203,-107.22296 -3e-6,23.48722"
+       id="path730-2-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path732-7-3"
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -38.684626,-107.22296 h 1.446423 1.446424 l -1.446424,-4.62349 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 55.724226,-84.001055 v 0 l -0.0035,24.246468"
+       id="path730-2-9-7"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path732-7-3-0"
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 54.277803,-84.001055 h 1.446423 1.446424 l -1.446424,-4.62349 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -37.238205,-51.928062 -10e-7,-18.04027"
+       id="path730-2-9-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path732-7-3-7"
+       style="fill:#ffffff;fill-opacity:0.1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m -35.791782,-51.928062 h -1.446423 -1.446424 l 1.446424,4.62349 z" />
+    <g
+       id="g1642-0-1-9"
+       transform="rotate(18.85089,-54.431118,124.31263)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879617;stroke-linecap:round;stroke-linejoin:round"
+       x="-91.418686"
+       y="-78.106361"
+       id="text1345"><tspan
+         sodipodi:role="line"
+         id="tspan1343"
+         style="font-size:3.175px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-91.418686"
+         y="-78.106361">entrypoint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879617;stroke-linecap:round;stroke-linejoin:round"
+       x="-39.152935"
+       y="-62.67791"
+       id="text1345-6"><tspan
+         sodipodi:role="line"
+         id="tspan1343-0"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-39.152935"
+         y="-62.67791">fetching</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-39.152935"
+         y="-58.70916"
+         id="tspan2083">style data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879617;stroke-linecap:round;stroke-linejoin:round"
+       x="-12.639657"
+       y="-56.380741"
+       id="text1345-6-9"
+       transform="rotate(-0.01748824)"><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-12.639657"
+         y="-56.380741"
+         id="tspan2083-8">fetching</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-12.639657"
+         y="-52.411991"
+         id="tspan2529">app structure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879617;stroke-linecap:round;stroke-linejoin:round"
+       x="53.72459"
+       y="-73.373482"
+       id="text1345-6-9-9"
+       transform="rotate(-0.01748824)"><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="53.72459"
+         y="-73.373482"
+         id="tspan2083-8-3">fetching</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="53.72459"
+         y="-69.404732"
+         id="tspan2529-6">components</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879617;stroke-linecap:round;stroke-linejoin:round"
+       x="-39.143635"
+       y="-98.552734"
+       id="text1345-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan1343-0-2"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-39.143635"
+         y="-98.552734">fetching</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-39.143635"
+         y="-94.583984"
+         id="tspan2083-6">&lt;div id=&quot;root&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0879619"
+         x="-39.143635"
+         y="-90.615234"
+         id="tspan2167">for ReactDOM</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169"
+       width="48.091896"
+       height="19.927734"
+       x="31.674797"
+       y="-57.427723"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-8"
+       width="66.221695"
+       height="10.731781"
+       x="-70.320381"
+       y="-124.01437"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-8-9"
+       width="48.183624"
+       height="10.731781"
+       x="-61.330017"
+       y="-82.326645"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-8-9-0"
+       width="51.054611"
+       height="10.731781"
+       x="-63.035934"
+       y="-45.651924"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="38.582817"
+       y="-106.02036"
+       id="text342-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan340-5-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="38.582817"
+         y="-106.02036">Comp1.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="35.626915"
+       y="-96.441162"
+       id="text342-3-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan340-6-5-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="35.626915"
+         y="-96.441162">Comp1.css</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-3"
+       width="41.37196"
+       height="19.895214"
+       x="34.145634"
+       y="-113.61533"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <g
+       id="g3430"
+       transform="translate(6.4069154,4.6695435)">
+      <rect
+         style="fill:#00112b;fill-opacity:1;stroke:#ffffff;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect2169-3-1"
+         width="57.111771"
+         height="4.9262037"
+         x="51.564808"
+         y="-71.285393"
+         rx="2.3777955"
+         ry="2.3777955" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.32576px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0873526;stroke-linecap:round;stroke-linejoin:round"
+         x="53.793076"
+         y="-67.742912"
+         id="text342-3-31-2"><tspan
+           sodipodi:role="line"
+           id="tspan340-6-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Semi-Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0873532"
+           x="53.793076"
+           y="-67.742912">import <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Semi-Bold';fill:#00ccff"
+   id="tspan3011">Comp1</tspan> from <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Semi-Bold';fill:#ff9955"
+   id="tspan3115">'./components/Comp1'</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="82.203384"
+       y="-106.02036"
+       id="text342-7-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan340-5-4-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="82.203384"
+         y="-106.02036">Comp2.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'SF UI  Text';-inkscape-font-specification:'SF UI  Text Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="79.24749"
+       y="-96.441162"
+       id="text342-3-3-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan340-6-5-0-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="79.24749"
+         y="-96.441162">Comp2.css</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2169-3-3"
+       width="42.830654"
+       height="19.895218"
+       x="77.67765"
+       y="-113.61533"
+       rx="3.5588896"
+       ry="3.5588896" />
+    <path
+       id="path1212-3"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 124.33432,-97.712385 a 1.2688217,1.2688217 0 0 0 -1.26917,1.268644 1.2688217,1.2688217 0 0 0 1.26917,1.268659 1.2688217,1.2688217 0 0 0 1.26866,-1.268659 1.2688217,1.2688217 0 0 0 -1.26866,-1.268644 z" />
+    <path
+       id="path1212-3-6"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 128.76721,-97.712385 a 1.2688217,1.2688217 0 0 0 -1.26917,1.268644 1.2688217,1.2688217 0 0 0 1.26917,1.268659 1.2688217,1.2688217 0 0 0 1.26866,-1.268659 1.2688217,1.2688217 0 0 0 -1.26866,-1.268644 z" />
+    <path
+       id="path1212-3-7"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 133.2001,-97.712385 a 1.2688217,1.2688217 0 0 0 -1.26917,1.268644 1.2688217,1.2688217 0 0 0 1.26917,1.268659 1.2688217,1.2688217 0 0 0 1.26866,-1.268659 1.2688217,1.2688217 0 0 0 -1.26866,-1.268644 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 71.522617,-58.287737 -6.806213,0.727515"
+       id="path1624" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="M 55.720743,-57.427722 Z"
+       id="path1682" />
+  </g>
+</svg>
