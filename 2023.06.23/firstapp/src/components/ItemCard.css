@@ -1,0 +1,48 @@
+.ItemCard{
+    width: fit-content;
+    border-radius: 1rem;
+    box-shadow: 0 0 4px;
+}
+
+.ItemCard > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ItemCard:hover{
+    box-shadow: 0 0 8px;
+}
+
+.ItemCard > div > h2 {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.ItemCard > img{
+    height: 10rem;
+    width: 22rem;
+    object-fit: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.ItemCard > div > button{
+    border: 0;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 6px 10px;
+}
+
+#SELECT_BTN {
+    background: royalblue;
+    color: white;
+    font-weight: bold;
+}
+
+
+#UNSELECT_BTN {
+    background: lightgray;
+    color: black;
+    font-weight: bold;
+}
