@@ -202,7 +202,7 @@ function TestUseState() {
 export default TestUseState
 ```
 
-## Use can Update/Replace Elements with `useState`
+## You can Also Update/Replace Elements with `useState`
 
 ### [Check The Code!](https://github.com/thekarananand/summer2023/blob/main/2023.06.23/firstapp) 
 
