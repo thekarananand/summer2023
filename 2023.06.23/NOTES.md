@@ -147,7 +147,6 @@ dallas_nodes
 ```
 
 <hr>
-<hr>
 
 # REACT
 
