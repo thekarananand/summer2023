@@ -1,5 +1,5 @@
 # ☀️ Jun 25, 2023
-Tech : Ansible, HTML + CSS, React
+Tech : Ansible, HTML + CSS
 
 
 # Ansible 
