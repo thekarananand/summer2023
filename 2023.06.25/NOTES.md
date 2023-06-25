@@ -6,7 +6,7 @@ Tech : Ansible, HTML + CSS
 
 ## Ansible Playbook
 
-### Here's the Sample Playbook
+### Here's a Sample Playbook
 
 **📄 playbook.yml**
 
