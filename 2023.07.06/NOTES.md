@@ -11,4 +11,4 @@ Tech : WebDev, Python
 
 # Kubernetes
 
-## Building a Kubernetes Cluster for HomeLab
+## Attempted to Build a Kubernetes Cluster for HomeLab
