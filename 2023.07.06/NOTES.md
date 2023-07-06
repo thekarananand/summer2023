@@ -1,5 +1,5 @@
 # ☀️ Jul 6, 2023
-Tech : WebDev, Python
+Tech : WebDev, Kubernetes
 
 # WebDev
 
