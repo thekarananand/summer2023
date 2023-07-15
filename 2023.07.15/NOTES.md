@@ -1,34 +1,44 @@
 # ☀️ Jul 14, 2023
 
-## Basics 
+## Basics of GCP
 
 List the Active Account Name
-```
+
+``` bash
 gcloud auth list
 ```
 
 List the Project ID
-```
+
+``` bash
 gcloud config list project
 ```
 
 
-Set the region for the project
-```
-gcloud config set compute/region us-west1
+Set the Region for the project
+
+``` bash
+gcloud config set compute/region <REGION>
 ```
 
-## App Engine
+## Google App Engine
+
 App Engine is a fully managed, serverless platform for developing and hosting web applications at scale
 
-To deploy your app to App Engine, run the following command from within the root directory of your application where the app.yaml file is located
+### Deploy App to App Engine
+
+run the following command from within the root directory of your application where the app.yaml file is located
 
 ```
 gcloud app deploy
 ```
 
-To View the Deployment
+### View Deployment
 
 ```
 gcloud app browse
 ```
+
+## Completes App Engine Foundational Path
+
+![](skill_badge.png)
