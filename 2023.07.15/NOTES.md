@@ -39,6 +39,6 @@ gcloud app deploy
 gcloud app browse
 ```
 
-## Completes App Engine Foundational Path
+## Completed App Engine Foundational Path
 
 ![](skill_badge.png)
