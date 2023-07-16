@@ -1,4 +1,4 @@
-# ☀️ Jul 15, 2023
+# ☀️ Jul 16, 2023
 
 ## Basics of GCP
 
